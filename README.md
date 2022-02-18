@@ -7,7 +7,7 @@ I have my BS in Electrical Engineering and my Masters of Computer Science.
 
 😄 Pronouns: He/Him
 
-<i class="devicon-c-plain colored"></i>
+<i class="devicon-c-plain colored">C</i>
 
 Languages I code in:
 - C
