@@ -1,13 +1,13 @@
-# Hi I'm Ilean Monterrubio Jr (he/him) 👋
+# Hi I am Ilean Monterrubio Jr (he/him) 👋
 
 I am a software engineer from Houston, Texas. Currently working remotely for General Motors for a couple years now.<br>
-I have my BS in Electrical Engineering and my Masters of Computer Science. 
+I have a BS in Electrical Engineering and a Masters of Computer Science. 
 
-Languages I code in:
+Languages I typically code in:
 - C
 - C++
 - Python
-- Shell Scription
+- Shell Scripting
 
 🌱 I’m currently learning:
 - Golang
