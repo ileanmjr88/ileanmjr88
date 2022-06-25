@@ -10,7 +10,9 @@ Languages I typically code in:
 - Shell Scripting
 
 🌱 I’m currently learning:
-- Golang
+- Javascript
+- Typescript
+- ReactJS
 
 <!--
 Tools
