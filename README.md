@@ -12,7 +12,7 @@ Level: Intermediate
 | ElectronJS       |       |      |
 
 ### Cloud Computing
-Level: Begineer
+Level: Beginner
 | | | |
 |------------------|-------|------|
 | AWS | Azure | Linode |
