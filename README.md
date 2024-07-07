@@ -1,4 +1,33 @@
-# Hi I am Ilean Monterrubio Jr (he/him) 👋🏼
+# Ilean Monterrubio Jr (he/him) 👋🏼
+Results-driven Senior Software Engineer with 9 years of experience. I have a strong background in embedded systems, software development, and testing. I have a proven track record of delivering high-quality software solutions on time and within budget. I am passionate about technology and enjoy working on challenging projects that push me to learn and grow. I am a team player who thrives in a fast-paced environment and enjoys collaborating with others to achieve common goals.
 
-I am a software engineer from Houston, Texas. Currently working remotely for General Motors for a few years now.<br>
-I have a BS in Electrical Engineering and a Masters of Computer Science. 
+## Skills
+### Software Development
+Level: Intermediate
+| | | |
+|------------------|-------|------|
+| Embedded Systems | Linux | RTOS |
+| QNX              | C     | C++  |
+| Python           | Javascript | NodeJS |
+| ElectronJS       |       |      |
+
+### Cloud Computing
+Level: Begineer
+| | | |
+|------------------|-------|------|
+| AWS | Azure | Linode |
+| Linode | Docker | Podman |
+| Kubernates |       |      |
+
+### Tools
+Level: Intermediate
+| | | |
+|------------------|-------|------|
+| Git | Jira | Confluence |
+| GitHub | Conan | CMake  |
+| Make | Bash |    |
+
+## Outside Hobbies
+- Photography
+- Golf, really have been enjoying golf
+- Traveling
