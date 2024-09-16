@@ -1,5 +1,6 @@
 # Ilean Monterrubio Jr (he/him) 👋🏼
-Results-driven Senior Software Engineer with 9 years of experience. I have a strong background in embedded systems, software development, and testing. I have a proven track record of delivering high-quality software solutions on time and within budget. I am passionate about technology and enjoy working on challenging projects that push me to learn and grow. I am a team player who thrives in a fast-paced environment and enjoys collaborating with others to achieve common goals.
+Senior Software Engineer with 9 years of experience specializing in embedded systems, software development, and testing. Proven track record of delivering robust, high-quality solutions within deadlines and budgets, particularly in the autonomous vehicle and embedded computing sectors. Passionate about tackling complex technical challenges, continuously learning, and driving innovation. A collaborative team player who excels in fast-paced environments and thrives on mentoring and leading teams to achieve strategic goals.
+
 
 ## Outside Hobbies
 - Photography
