@@ -8,8 +8,8 @@ Currently looking the next exciting opporturnity in my career. I have joined a f
 - [Cup Of Joey](https://www.cupofjoey.org/) - Houston, TX organization
 
 ## Recent post
-<!-- blog-post-list:start -->
-<!-- blog-post-list:end -->
+<!-- BLOG-POST-LIST:START --> 
+<!-- BLOG-POST-LIST:END -->
 
 ## Hobbies
 In my spare time, I make it a priority to have fun and recharge. Over the past year, I’ve taken up golf whenever I get the chance. It’s a fantastic way to get outdoors, clear my mind, and challenge myself. Photography is another hobby I enjoy—while I’m not a professional, I love experimenting with natural light to capture moments as authentically as possible.
