@@ -16,7 +16,7 @@ jobs:
       - name: Github Readme Blog Post Action
         uses: nexensys/github-readme-blog-post-action@v1
         with:
-          feed_url: "https://www.ilean.me/rss.xml"
+          feed_urls: "https://www.ilean.me/rss.xml"
       - name: Commit and push if changed
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
