@@ -1,6 +1,6 @@
 ![MyBanner](/images/myBanner.png)
 
-Engineer who has a passion of tackling problems and building cool stuff. I have sent products to the bottom of the ocean to be part of the Autonomous Vehicle team to help get closer to reality. 
+I’m an engineer driven by a passion for solving complex problems and creating innovative solutions. My work has ranged from designing products that collect critical data and operate valves in the depths of the ocean for the oil and gas industry to contributing to cutting-edge autonomous vehicle technology, helping bring smarter mobility closer to reality.
 
 Currently looking the next exciting opporturnity in my career. I have joined a few organization locally to help me network:
 - [Code and Coffee](https://www.codeandcoffee.org) - They have multiple chapters across the US
