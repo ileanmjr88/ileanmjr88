@@ -1,8 +1,8 @@
 ![MyBanner](/images/myBanner.png)
 
-I’m an engineer driven by a passion for solving complex problems and creating innovative solutions. My work has ranged from designing products that collect critical data and operate valves in the depths of the ocean for the oil and gas industry to contributing to cutting-edge autonomous vehicle technology, helping bring smarter mobility closer to reality.
+I am an engineer fueled by a passion for tackling complex challenges and crafting innovative solutions. My expertise spans designing products that gather critical data while operating valves in the ocean's depths, to advancing cutting-edge autonomous vehicle technology, driving the future of smarter mobility. 
 
-Currently looking the next exciting opporturnity in my career. I have joined a few organization locally to help me network:
+I am currently seeking my next exciting career opportunity. To expand my network and connect with like-minded professionals, I have joined several local organizations, including:
 - [Code and Coffee](https://www.codeandcoffee.org) - They have multiple chapters across the US
 - [Side Project Society](https://www.sideprojectsociety.com) - Houston, TX organization
 - [Cup Of Joey](https://www.cupofjoey.org/) - Houston, TX organization
