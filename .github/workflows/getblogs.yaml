@@ -1,24 +1,19 @@
-name: Get Blogs
-
+name: Latest blog post workflow
 on:
-  push:
-    branches:
-      - main
-  schedule:
-    - cron: "0 */1 * * *"
+  schedule: # Run workflow automatically
+    - cron: '0 * * * *' # Runs every hour, on the hour
+  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the GitHub Actions Workflow page directly
+permissions:
+  contents: write # To write the generated contents to the readme
 
 jobs:
-  get-blogs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
-      - name: Github Readme Blog Post Action
-        uses: nexensys/github-readme-blog-post-action@v1
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Pull in dev.to posts
+        uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_urls: "https://www.ilean.me/rss.xml"
-      - name: Commit and push if changed
-        uses: stefanzweifel/git-auto-commit-action@v4
-        with:
-          commit_message: Save Generated Blog Posts
-          skip_checkout: true
+          feed_list: "https://www.ilean.me/rss.xml"
