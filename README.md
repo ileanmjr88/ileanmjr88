@@ -8,7 +8,10 @@ Currently looking the next exciting opporturnity in my career. I have joined a f
 - [Cup Of Joey](https://www.cupofjoey.org/) - Houston, TX organization
 
 ## Recent post
-<!-- BLOG-POST-LIST:START --> 
+<!-- BLOG-POST-LIST:START -->
+- [My First Hackathon Experience: A Journey Back to the 90s](https://ilean.me/blog/my-first-hackathon-experience_-a-journey-back-to-the-90s/)
+- [Beyond the Blinky LED: Building a Command Interpreter for Microcontrollers](https://ilean.me/blog/beyond-the-blinky-led_-building-a-command-interpreter-for-microcontrollers/)
+- [Finding Community in Houston’s Tech Scene](https://ilean.me/blog/finding-community-in-houstons-tech-scene/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Hobbies
