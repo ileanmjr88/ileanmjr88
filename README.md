@@ -8,7 +8,8 @@ Currently looking the next exciting opporturnity in my career. I have joined a f
 - [Cup Of Joey](https://www.cupofjoey.org/) - Houston, TX organization
 
 ## Recent post
-TBD
+<!-- blog-post-list:start -->
+<!-- blog-post-list:end -->
 
 ## Hobbies
 In my spare time, I make it a priority to have fun and recharge. Over the past year, I’ve taken up golf whenever I get the chance. It’s a fantastic way to get outdoors, clear my mind, and challenge myself. Photography is another hobby I enjoy—while I’m not a professional, I love experimenting with natural light to capture moments as authentically as possible.
@@ -16,3 +17,4 @@ In my spare time, I make it a priority to have fun and recharge. Over the past y
 Gaming is also a big part of my downtime. I’m a fan of role-playing games, and some of my favorite titles in recent years include God of War, Ghost of Tsushima, Horizon, and Spider-Man.
 
 Though I haven’t traveled extensively, the experiences I’ve had have left a lasting impression. For example, I absolutely loved wandering through the streets of Barcelona, Spain—it was an incredible blend of history, culture, and beauty that I hope to explore further in the future.
+
