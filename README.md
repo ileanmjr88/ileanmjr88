@@ -9,6 +9,7 @@ I am currently seeking my next exciting career opportunity. To expand my network
 
 ## Recent post
 <!-- BLOG-POST-LIST:START -->
+- [Reflecting on 2024: A Year of Growth, Challenges, and New Beginnings](https://ilean.me/blog/reflecting-on-2024_-a-year-of-growth-challenges-and-new-beginnings/)
 - [My First Hackathon Experience: A Journey Back to the 90s](https://ilean.me/blog/my-first-hackathon-experience_-a-journey-back-to-the-90s/)
 - [Beyond the Blinky LED: Building a Command Interpreter for Microcontrollers](https://ilean.me/blog/beyond-the-blinky-led_-building-a-command-interpreter-for-microcontrollers/)
 - [Finding Community in Houston’s Tech Scene](https://ilean.me/blog/finding-community-in-houstons-tech-scene/)
