@@ -1,24 +1,59 @@
 ![MyBanner](/images/myBanner.png)
 
-I am an engineer fueled by a passion for tackling complex challenges and crafting innovative solutions. My expertise spans designing products that gather critical data while operating valves in the ocean's depths, to advancing cutting-edge autonomous vehicle technology, driving the future of smarter mobility. 
+## Hi, I'm Ilean Monterrubio Jr
 
-I am currently seeking my next exciting career opportunity. To expand my network and connect with like-minded professionals, I have joined several local organizations, including:
-- [Code and Coffee](https://www.codeandcoffee.org) - They have multiple chapters across the US
-- [Side Project Society](https://www.sideprojectsociety.com) - Houston, TX organization
-- [Cup Of Joey](https://www.cupofjoey.org/) - Houston, TX organization
+**Senior Software Engineer** | Houston, TX
 
-## Recent post
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ilean-monterrubio-jr/)
+[![Blog](https://img.shields.io/badge/Blog-ilean.me-FF5722?style=flat&logo=rss&logoColor=white)](https://ilean.me)
+[![GitHub](https://img.shields.io/badge/GitHub-ileanmjr88-181717?style=flat&logo=github&logoColor=white)](https://github.com/ileanmjr88)
+
+Senior Software Engineer with 10+ years of experience specializing in embedded systems and full-stack development. From building autonomous vehicle platforms at General Motors to designing industrial HMI systems and enterprise web applications, I enjoy solving complex problems across the entire stack.
+
+## Tech Stack
+
+**Languages**
+
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+**Frameworks & Libraries**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat&logo=electron&logoColor=white)
+![GTK](https://img.shields.io/badge/GTK-4A86CF?style=flat&logo=gtk&logoColor=white)
+
+**Platforms & Tools**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![QNX](https://img.shields.io/badge/QNX-000000?style=flat)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat&logo=cmake&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+
+## Community
+
+I am actively involved in the Houston tech community through these organizations:
+- [Code and Coffee](https://www.codeandcoffee.org) - Multiple chapters across the US
+- [Side Project Society](https://www.sideprojectsociety.com) - Houston, TX
+- [Cup Of Joey](https://www.cupofjoey.org/) - Houston, TX
+
+## Recent Posts
 <!-- BLOG-POST-LIST:START -->
 - [Reflecting on 2024: A Year of Growth, Challenges, and New Beginnings](https://ilean.me/blog/reflecting-on-2024_-a-year-of-growth-challenges-and-new-beginnings/)
 - [My First Hackathon Experience: A Journey Back to the 90s](https://ilean.me/blog/my-first-hackathon-experience_-a-journey-back-to-the-90s/)
 - [Beyond the Blinky LED: Building a Command Interpreter for Microcontrollers](https://ilean.me/blog/beyond-the-blinky-led_-building-a-command-interpreter-for-microcontrollers/)
-- [Finding Community in Houston’s Tech Scene](https://ilean.me/blog/finding-community-in-houstons-tech-scene/)
+- [Finding Community in Houston's Tech Scene](https://ilean.me/blog/finding-community-in-houstons-tech-scene/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Hobbies
-In my spare time, I make it a priority to have fun and recharge. Over the past year, I’ve taken up golf whenever I get the chance. It’s a fantastic way to get outdoors, clear my mind, and challenge myself. Photography is another hobby I enjoy—while I’m not a professional, I love experimenting with natural light to capture moments as authentically as possible.
 
-Gaming is also a big part of my downtime. I’m a fan of role-playing games, and some of my favorite titles in recent years include God of War, Ghost of Tsushima, Horizon, and Spider-Man.
-
-Though I haven’t traveled extensively, the experiences I’ve had have left a lasting impression. For example, I absolutely loved wandering through the streets of Barcelona, Spain—it was an incredible blend of history, culture, and beauty that I hope to explore further in the future.
-
+When I'm not coding, you'll find me on the golf course, experimenting with natural light photography, or playing RPGs like God of War and Ghost of Tsushima. I also love to travel — wandering through Barcelona was a highlight I hope to top someday.
