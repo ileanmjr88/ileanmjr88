@@ -3,6 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ilean-monterrubio-jr/)
 [![Blog](https://img.shields.io/badge/Blog-ilean.me-FF5722?style=flat&logo=rss&logoColor=white)](https://ilean.me)
 [![GitHub](https://img.shields.io/badge/GitHub-ileanmjr88-181717?style=flat&logo=github&logoColor=white)](https://github.com/ileanmjr88)
+[![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?style=flat&logo=mastodon&logoColor=white)](https://mastodon.social/@elcapitan1)
 
 Senior Software Engineer with 10+ years of experience specializing in embedded systems and full-stack development. From building autonomous vehicle platforms at General Motors to designing industrial HMI systems and enterprise web applications, I enjoy solving complex problems across the entire stack.
 
