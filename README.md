@@ -65,11 +65,11 @@ I am actively involved in the Houston tech community through these organizations
 
 ## Recent Posts
 <!-- BLOG-POST-LIST:START -->
+- [Building a Terminal Text Editor: The Presenter &lpar;Part 2&rpar;](https://ilean.me/blog/building-a-terminal-text-editor-the-presenter-part-2/)
 - [Building a Terminal Text Editor: The Model &lpar;Part 1&rpar;](https://ilean.me/blog/building-a-terminal-text-editor-the-model-part-1/)
 - [I2C Driver and Simulation](https://ilean.me/blog/i2c-driver-and-simulation/)
 - [Reflecting on 2024: A Year of Growth, Challenges, and New Beginnings](https://ilean.me/blog/reflecting-on-2024_-a-year-of-growth-challenges-and-new-beginnings/)
 - [My First Hackathon Experience: A Journey Back to the 90s](https://ilean.me/blog/my-first-hackathon-experience_-a-journey-back-to-the-90s/)
-- [Beyond the Blinky LED: Building a Command Interpreter for Microcontrollers](https://ilean.me/blog/beyond-the-blinky-led_-building-a-command-interpreter-for-microcontrollers/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Hobbies
