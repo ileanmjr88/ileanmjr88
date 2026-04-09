@@ -62,6 +62,7 @@ I am actively involved in the Houston tech community through these organizations
 - [Code and Coffee](https://www.codeandcoffee.org) - Multiple chapters across the US
 - [Side Project Society](https://www.sideprojectsociety.com) - Houston, TX
 - [Cup Of Joey](https://www.cupofjoey.org/) - Houston, TX
+- [Houston Open Source Society](https://houstonopensourcesociety.com/) - Houston, TX
 
 ## Recent Posts
 <!-- BLOG-POST-LIST:START -->
