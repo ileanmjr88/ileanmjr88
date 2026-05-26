@@ -7,6 +7,20 @@
 
 Senior Software Engineer with 10+ years of experience specializing in embedded systems and full-stack development. From building autonomous vehicle platforms at General Motors to designing industrial HMI systems and enterprise web applications, I enjoy solving complex problems across the entire stack.
 
+## Featured Projects
+
+- **[compendium](https://github.com/ileanmjr88/compendium)** · Go — Reproducible developer environments, declared in one config.
+- **[compendium-registry](https://github.com/ileanmjr88/compendium-registry)** · Python — Public manifest for Compendium, the developer environment manager.
+- **[compendium-docs](https://github.com/ileanmjr88/compendium-docs)** · MDX — Documentation site for Compendium.
+- **[wordNebula](https://github.com/ileanmjr88/wordNebula)** · C++ — Terminal word processor for distraction-free writing.
+- **[f1buddy](https://github.com/ileanmjr88/f1buddy)** · JavaScript — Discord bot for the latest F1 session data.
+
+## Now
+
+- **Building** [Compendium](https://github.com/ileanmjr88/compendium) — reproducible developer environments declared in one config.
+- **Learning** Go in depth — concurrency idioms, idiomatic patterns, and the standard library.
+- **Around town** Regular at Houston Code and Coffee, Side Project Society, and Houston Open Source Society.
+
 ## Tech Stack
 
 **Languages**
@@ -15,6 +29,8 @@ Senior Software Engineer with 10+ years of experience specializing in embedded s
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
 
 **Frameworks & Libraries**
@@ -26,8 +42,12 @@ Senior Software Engineer with 10+ years of experience specializing in embedded s
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat&logo=electron&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat&logo=astro&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![GTK](https://img.shields.io/badge/GTK-4A86CF?style=flat&logo=gtk&logoColor=white)
+![Cobra](https://img.shields.io/badge/Cobra-00ADD8?style=flat&logo=go&logoColor=white)
+![Click](https://img.shields.io/badge/Click-000000?style=flat&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
@@ -48,12 +68,14 @@ Senior Software Engineer with 10+ years of experience specializing in embedded s
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat&logo=cmake&logoColor=white)
 ![Conan](https://img.shields.io/badge/Conan-6699CB?style=flat&logo=conan&logoColor=white)
 ![GDB](https://img.shields.io/badge/GDB-000000?style=flat)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 
 ## Community
@@ -75,4 +97,11 @@ I am actively involved in the Houston tech community through these organizations
 
 ## Hobbies
 
-When I'm not coding, you'll find me on the golf course, experimenting with natural light photography, or playing RPGs like God of War and Ghost of Tsushima. I also love to travel — wandering through Barcelona was a highlight I hope to top someday.
+When I'm not coding, you'll find me on the golf course, experimenting with natural light photography, or diving into a good RPG. I also love to travel — wandering through Barcelona was a highlight I hope to top someday.
+
+My love of golf even spilled into a side project: I built and maintain the website for my home course at [melrosegolfhtx.com](https://melrosegolfhtx.com/).
+
+**Current PWR**
+- 🎮 **Playing:** *LEGO Batman: Legacy of the Dark Knight*.
+- 📺 **Watching:** Rewatching *The Big Bang Theory*.
+- 📖 **Reading:** *Cuando vi a la muerte prestar su sombrero*, and working through Go on the tech side.
