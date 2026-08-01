@@ -88,11 +88,11 @@ I am actively involved in the Houston tech community through these organizations
 
 ## Recent Posts
 <!-- BLOG-POST-LIST:START -->
+- [Common Embedded Patterns: Ring Buffer](https://ilean.me/blog/common-embedded-patterns-ring-buffer/)
 - [Compendium: Reproducible Developer Environments in One Config](https://ilean.me/blog/compendium-launch/)
 - [How I Built a Low-Friction Blog Pipeline](https://ilean.me/blog/how-i-built-a-low-friction-blog-pipeline/)
 - [Building a Terminal Text Editor: The View &lpar;Part 3&rpar;](https://ilean.me/blog/building-a-terminal-text-editor-the-view-part-3/)
 - [Building a Terminal Text Editor: The Presenter &lpar;Part 2&rpar;](https://ilean.me/blog/building-a-terminal-text-editor-the-presenter-part-2/)
-- [Building a Terminal Text Editor: The Model &lpar;Part 1&rpar;](https://ilean.me/blog/building-a-terminal-text-editor-the-model-part-1/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Hobbies
