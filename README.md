@@ -13,7 +13,8 @@ Senior Software Engineer with 10+ years of experience specializing in embedded s
 - **[compendium-registry](https://github.com/ileanmjr88/compendium-registry)** · Python — Public manifest for Compendium, the developer environment manager.
 - **[compendium-docs](https://github.com/ileanmjr88/compendium-docs)** · MDX — Documentation site for Compendium.
 - **[wordNebula](https://github.com/ileanmjr88/wordNebula)** · C++ — Terminal word processor for distraction-free writing.
-- **[f1buddy](https://github.com/ileanmjr88/f1buddy)** · JavaScript — Discord bot for the latest F1 session data.
+- **[tetzontli](https://github.com/ileanmjr88/tetzontli)** · C — Common embedded software patterns in C, host-tested with GoogleTest.
+- **[htxdev](https://github.com/ileanmjr88/htxdev)** · Go — What's happening in Houston tech today, pulled from the calendars groups already publish.
 
 ## Now
 
@@ -103,5 +104,5 @@ My love of golf even spilled into a side project: I built and maintain the websi
 
 **Current PWR**
 - 🎮 **Playing:** *LEGO Batman: Legacy of the Dark Knight*.
-- 📺 **Watching:** Rewatching *The Big Bang Theory*.
-- 📖 **Reading:** *Cuando vi a la muerte prestar su sombrero*, and working through Go on the tech side.
+- 📺 **Watching:** *Lanterns* and *Ted Lasso*.
+- 📖 **Reading:** *Leviathan Wakes*, book one of *The Expanse*, and working through Go on the tech side.
