@@ -19,8 +19,9 @@ Senior Software Engineer with 10+ years of experience specializing in embedded s
 
 ## Now
 
-- **Building** [Compendium](https://github.com/ileanmjr88/compendium) — reproducible developer environments declared in one config.
-- **Learning** Go in depth — concurrency idioms, idiomatic patterns, and the standard library.
+- **Building** [Compendium](https://github.com/ileanmjr88/compendium) — v0.2 lockfile for toolchain provenance is in progress.
+- **Writing** the bilingual Common Embedded Patterns series; part 3, the finite state machine, just shipped.
+- **Learning** Go in depth.
 - **Around town** Regular at Houston Code and Coffee, Side Project Society, and Houston Open Source Society.
 
 ## Tech Stack
@@ -105,5 +106,5 @@ My love of golf even spilled into a side project: I built and maintain the websi
 
 **Current PWR**
 - 🎮 **Playing:** *LEGO Batman: Legacy of the Dark Knight*.
-- 📺 **Watching:** *Lanterns* and *Ted Lasso*.
-- 📖 **Reading:** *Leviathan Wakes*, book one of *The Expanse*, and working through Go on the tech side.
+- 📺 **Watching:** TBD.
+- 📖 **Reading:** *The Last Gifts of the Universe*, then Caliban’s War (book two of The Expanse)
