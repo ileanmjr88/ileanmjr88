@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:014FF6,100:0D1117&height=230&text=Ilean%20Monterrubio%20Jr&desc=Senior%20Software%20Engineer%20%7C%20Houston%2C%20TX&fontSize=42&descSize=18&fontColor=FFFFFF&fontAlignY=35&descAlignY=55&animation=fadeIn)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ilean-monterrubio-jr/)
-[![Blog](https://img.shields.io/badge/Blog-ilean.me-FF5722?style=flat&logo=rss&logoColor=white)](https://ilean.me)
+[![Blog](https://img.shields.io/badge/Blog-ilean.me-FF5722?style=flat&logo=rss&logoColor=white)](https://www.ilean.me/?utm_source=github&utm_medium=profile&utm_campaign=github-profile)
 [![htxdev](https://img.shields.io/badge/htxdev-htxdev.ilean.me-0369A1?style=flat&logo=googlecalendar&logoColor=white)](https://htxdev.ilean.me)
 [![GitHub](https://img.shields.io/badge/GitHub-ileanmjr88-181717?style=flat&logo=github&logoColor=white)](https://github.com/ileanmjr88)
 [![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?style=flat&logo=mastodon&logoColor=white)](https://mastodon.social/@elcapitan1)
@@ -20,7 +20,7 @@ Senior Software Engineer with 10+ years of experience specializing in embedded s
 ## Now
 
 - **Building** [Compendium](https://github.com/ileanmjr88/compendium) — v0.2 lockfile for toolchain provenance is in progress.
-- **Writing** the bilingual Common Embedded Patterns series; part 3, the finite state machine, just shipped.
+- **Writing** the bilingual Common Embedded Patterns series.
 - **Learning** Go in depth.
 - **Around town** Regular at Houston Code and Coffee, Side Project Society, and Houston Open Source Society.
 
@@ -107,4 +107,4 @@ My love of golf even spilled into a side project: I built and maintain the websi
 **Current PWR**
 - 🎮 **Playing:** *LEGO Batman: Legacy of the Dark Knight*.
 - 📺 **Watching:** TBD.
-- 📖 **Reading:** *The Last Gifts of the Universe*, then Caliban’s War (book two of The Expanse)
+- 📖 **Reading:** *Caliban's War'*, book two of The Expanse
