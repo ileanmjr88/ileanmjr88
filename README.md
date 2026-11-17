@@ -106,5 +106,5 @@ My love of golf even spilled into a side project: I built and maintain the websi
 
 **Current PWR**
 - 🎮 **Playing:** *LEGO Batman: Legacy of the Dark Knight*.
-- 📺 **Watching:** TBD.
-- 📖 **Reading:** *Caliban's War'*, book two of The Expanse
+- 📺 **Watching:** 007 James Bond (Daniel Craig era).
+- 📖 **Reading:** *Abaddon's Gate*, book two of The Expanse
